@@ -17,9 +17,8 @@ deskrag/
 ```
 
 ## Quick start
-- Install: `pip install -r requirements.txt`
-- Run UI: `python -m src.ui.app`
-- Download models: `python scripts/download_models.py`
+streamlit run src/app_streamlit.py
+
 
 
 
